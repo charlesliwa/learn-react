@@ -9,4 +9,3 @@
 ### 05 State management strategies
 
 
-![alt text](<Screenshot 2025-11-23 at 6.09.14 PM.png>)
